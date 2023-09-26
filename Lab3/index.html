@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+     <style>
+          input:valid {
+               background-color: palegreen;
+          }
+
+          input:invalid {
+               background-color: lightpink;
+          }
+
+          .submit{
+               background-color: grey;
+          }
+     </style>
+     <body>
+          <form action="index.php" method="post">
+               <div>
+                    <input type="text" name="enteredtext"
+                         pattern="[A-Za-z0-9 ]{1,50}"
+                    >
+                    <span class="condition"></span>
+                    <p>Text must be between 1 and 50 letters or numbers, no special characters</p>
+               </div>
+               <input class="submit" type="submit" value="submit">
+          </form>
+     </body>
+</html>

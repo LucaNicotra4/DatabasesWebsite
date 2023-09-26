@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+    <title>HTML Forms</title>
+    <body>
+        <form action='forms.php' method='post'>
+            <div>Enter your name:</div>
+            <input type="text" name='name'>
+            <br><br>
+            
+            <div>Choose your favorite:</div>
+            <input type="radio" id="pizza" name="fav_food" value="pizza">
+            <label for="pizza">Pizza</label><br>
+            <input type="radio" id="tacos" name="fav_food" value="tacos">
+            <label for="tacos">Tacos</label><br>
+            <input type="radio" id="sushi" name="fav_food" value="sushi">
+            <label for="sushi">Sushi</label><br><br>
+            
+            <div>Select what you have done:</div>
+            <input type="checkbox" id="bungee" name="bungee" value="bungee">
+            <label for="bungee">Gone bungee jumping</label><br>
+            <input type="checkbox" id="europe" name="europe" value="europe">
+            <label for="europe">Visited Europe</label><br>
+            <input type="checkbox" id="college" name="college" value="college">
+            <label for="college">Attended college</label><br><br>
+            
+            <label for="teams">Choose a team:</label>
+            <select name="teams" id="teams">
+                <option value="chiefs">Chiefs</option>
+                <option value="patriots">Patriots</option>
+                <option value="raiders">Raiders</option>
+                <option value="bengals">Bengals</option>
+            </select>
+            
+            <input type='submit' value='Submit'>
+        </form>
+    </body>
+</html>

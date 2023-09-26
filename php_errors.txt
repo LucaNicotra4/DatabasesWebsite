@@ -1,0 +1,1935 @@
+[13-Sep-2023 19:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /var/www/CSCI3100/Week2/hello.php:4
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 4
+[13-Sep-2023 19:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /var/www/CSCI3100/Week2/hello.php:3
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 3
+[13-Sep-2023 19:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /var/www/CSCI3100/Week2/hello.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 2
+[13-Sep-2023 19:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /var/www/CSCI3100/Week2/hello.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 2
+[13-Sep-2023 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /var/www/CSCI3100/Week2/hello.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 2
+[13-Sep-2023 19:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /var/www/CSCI3100/Week2/hello.php:7
+Stack trace:
+#0 {main}
+  thrown in /var/www/CSCI3100/Week2/hello.php on line 7
+[20-Sep-2023 19:30:47 UTC] PHP Notice:  Undefined index: num1 in /var/www/CSCI3100/Assignment2/calculator.php on line 3
+[20-Sep-2023 19:30:47 UTC] PHP Stack trace:
+[20-Sep-2023 19:30:47 UTC] PHP   1. {main}() /var/www/CSCI3100/Assignment2/calculator.php:0
+[20-Sep-2023 19:30:47 UTC] PHP Notice:  Undefined index: num2 in /var/www/CSCI3100/Assignment2/calculator.php on line 4
+[20-Sep-2023 19:30:47 UTC] PHP Stack trace:
+[20-Sep-2023 19:30:47 UTC] PHP   1. {main}() /var/www/CSCI3100/Assignment2/calculator.php:0
+[20-Sep-2023 19:30:47 UTC] PHP Notice:  Undefined index: operator in /var/www/CSCI3100/Assignment2/calculator.php on line 5
+[20-Sep-2023 19:30:47 UTC] PHP Stack trace:
+[20-Sep-2023 19:30:47 UTC] PHP   1. {main}() /var/www/CSCI3100/Assignment2/calculator.php:0
+[25-Sep-2023 21:41:55 UTC] PHP Notice:  Array to string conversion in /var/www/CSCI3100/Lab4/reader.php on line 17
+[25-Sep-2023 21:41:55 UTC] PHP Stack trace:
+[25-Sep-2023 21:41:55 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[25-Sep-2023 21:41:59 UTC] PHP Notice:  Undefined offset: 3 in /var/www/CSCI3100/Lab4/reader.php on line 17
+[25-Sep-2023 21:41:59 UTC] PHP Stack trace:
+[25-Sep-2023 21:41:59 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:18 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:18 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:18 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:19 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:19 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:19 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:20 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 28
+[26-Sep-2023 02:44:20 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:20 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:22 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:22 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:22 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:23 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 29
+[26-Sep-2023 02:44:23 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:23 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:25 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:25 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:25 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:26 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:26 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:26 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:27 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:27 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:27 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:29 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:29 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:29 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:30 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:30 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:30 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
+[26-Sep-2023 02:44:31 UTC] PHP Notice:  Undefined variable: gradeEx in /var/www/CSCI3100/Lab4/reader.php on line 30
+[26-Sep-2023 02:44:31 UTC] PHP Stack trace:
+[26-Sep-2023 02:44:31 UTC] PHP   1. {main}() /var/www/CSCI3100/Lab4/reader.php:0
