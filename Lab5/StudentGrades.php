@@ -43,7 +43,7 @@ if(isset($studentID)){
                echo "<tr>";
                     echo "<td>".$gradEx[1];
                     //textbox with grade as value, assignment num as name
-                    echo "<td><input type='text' value='".$gradEx[2]."' name='".$gradeEx[1]."'>";
+                    echo "<td><input type='text' value='".$gradEx[2]."' name='".$gradEx[1]."'>";
                echo "</tr>";
           }
      }
@@ -65,40 +65,41 @@ if(isset($studentID)){
 echo "</form>";
 
 //SECOND FORM HANDLING
-$studentID = $_POST['studentID'];
+$studentID = $_POST['studentID']; //verified
 if(isset($studentID)){
+
      //Handling second form
      fclose($grades);
-     $studentID = $_POST['studentID'];
      $grades = fopen("Grades.txt", "r");
-     $temp = array();
+     $lines = array();
 
-     //Parse through grades file
-     echo "Length: ".count($temp);
-     for($count = 0; !feof($grades); $count++){ 
-          $line = explode(',', fgets($grades));
-          if(!($studentID == $line[0])){
-               $tempLine = $line[0].",".$line[1].",".$line[2];
-               $temp[$count] = $tempLine;
-          }
+     //add unchanged values
+     $index = 0;
+     while(!feof($grades)){
+          $line = fgets($grades);
+          if(!($line == "\n")){
+               $lineExplode = explode(',', $line);
+               if($lineExplode[0] != $studentID){
+                    $lines[$index++] = $line;
+               }
+          }   
      }
-     $temp[count($temp)] = "\n";
-     echo "Lenght post grades: ".count($temp);
-     //Add altered grades
-     for($count = 1; $count <= 10; $count++){
-          $new = $_POST[$count]; //get grade per assignment number
-          echo "Grade for assigment ".$count.": ".$new;
-          $temp[count($temp)] = $studentID.",".$count.",".$new."\n"; //add to end of temp
+
+     //add new values
+     for($assignment = 1; $assignment <= 10; $assignment++){
+          $newGrade = $_POST[$assignment];
+          $line = "\n"."$studentID,$assignment,$newGrade";
+          $lines[$index++] = $line;
      }
-     echo "Lenght post alter: ".count($temp);
-     //Save to grades
-     unset($line);
+
+     //Rewrite grades
      fclose($grades);
-     $grades = fopen("grades.txt", "w");
-     foreach($temp as $line){
-          //echo "line: ".$line;
-          fwrite($grades, $line);
+     $grades = fopen('Grades.txt', 'w');
+     for($index = 0; $index < count($lines); $index++){
+          fwrite($grades, $lines[$index]);
      }
+
+     echo "Gradebook Updated!";
 }
 
 fclose($students);
