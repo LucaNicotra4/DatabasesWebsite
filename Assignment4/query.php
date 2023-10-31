@@ -19,7 +19,6 @@ echo"<body style='text-align:center'>";
 echo"<h1>Query for Student Database</h1>";
 
 //Text input form
-$query = $_POST["query"];
 echo"
      <form method='POST'>
           <input type='text' name='query' placeholder='Enter SQL Here'
@@ -33,23 +32,25 @@ echo"
 ";
 
 //Handling form
-if($_POST['Submit1']){
+if(isset($_POST['query'])){
      $query = $_POST['query'];
      //echo "<p style='font-size: 25px'>Query: $query</p> <br>";
 
      //Send Query
      $result = $conn->query($query);
-     if(isset($result)){
-          //$affectedRows = $conn -> affected_rows;
-          $affectedRows = mysqli_affected_rows($conn);
-          $fieldinfo = $result -> fetch_fields();
+     error_log("Type = ".gettype($result));
+
+     $affectedRows = mysqli_affected_rows($conn);
+     echo "<p style='font-size: 20px;'>Affected rows: " . $affectedRows . "</p>";
+     if(is_object($result)){
           $row = $result->fetch_array(MYSQLI_BOTH);
+          //$affectedRows = $conn -> affected_rows;
+          $fieldinfo = $result -> fetch_fields();
 
           //Starting table
-          echo "<p style='font-size: 20px;'>Affected rows: " . $affectedRows . "</p>";
           echo "<table cellpadding='3' cellspacing='3' style='margin-left: auto; margin-right:auto;'>";
                echo"<colgroup>
-                         <col span='".count($row)."' style='background-color: silver'>
+                         <col span='".(count($row) / 2)."' style='background-color: silver'>
                     </colgroup>";
                echo "<tr>";
                     foreach($fieldinfo as $val){
@@ -58,18 +59,19 @@ if($_POST['Submit1']){
                echo "</tr>";
                while(isset($row)){ //Loop through rows of results
                     echo "<tr>";
-                    for($index = 0; $index < count($row); $index++){
-                         if($row[$index] != ""){
-                              echo "<td>$row[$index]";
-                         }
+                    for($index = 0; $index < count($row) / 2; $index++){
+                         // if($row[$index] != ""){
+                              echo "<td>$row[$index]</td>";
+                         // }
                     }
                     echo "</tr>";
                     $row = $result->fetch_array(MYSQLI_BOTH);
                }
           echo "</table>";
      }else{
-          echo "Invalid Query";
      }
      $result -> close();
+} else {
+     echo "<p>Nope.</p>";
 }
 ?>
