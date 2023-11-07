@@ -50,49 +50,51 @@ $xw = xmlwriter_open_memory();
 xmlwriter_set_indent($xw, 1);
 $res = xmlwriter_set_indent_string($xw, ' ');
 
-//XSLT Styling
-echo"
-<?xml version='1.0' encoding='UTF-8'?>
-
-<xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'> 
-     <xsl:template match='/'>
-     <html>
-     <xsl:for-each select='row'>
-     <table border='1'>
-          <tr>
-            <td><xsl:value-of select='data'/></td>
-          </tr>
-     </table>
-     </xsl:for-each>
-     </html>
-     </xsl:template>
-</xsl:stylesheet>";
-
 xmlwriter_start_document($xw, '1.0', 'UTF-8');
+     xmlwriter_write_pi($xw, "xml-stylesheet", "type=\"text/xsl\" href=\"style.xsl\"");
 
-     $count = 0;
-     while(isset($row)){ //row by row
+     xmlwriter_start_element($xw, "students");
 
-          //first element
-          xmlwriter_start_element($xw, "row");
-          
-               //first element attribute
-               xmlwriter_start_attribute($xw, 'att1');
-                    xmlwriter_text($xw, 'valueofatt1');
-               xmlwriter_end_attribute($xw);
-
-               //sub-element
-               for($i = 0; $i < count($row); $i++){
-                    xmlwriter_start_element($xw, "data");
-                         xmlwriter_text($xw, "$row[$i]");
-                    xmlwriter_end_element($xw); // data1
+          //elements
+          while(isset($row)){
+               xmlwriter_start_element($xw, "row");
+               $count = 0;
+               foreach($row as $data){
+                    //sub-element
+                    xmlwriter_start_element($xw, "data$count");
+                         xmlwriter_text($xw, "$data");
+                    xmlwriter_end_element($xw); // data
+                    $count++;
                }
-               
-          xmlwriter_end_element($xw); // row1
 
-          $row = $result->fetch_array(MYSQLI_BOTH);
-          $count++;
-     }
+               xmlwriter_end_element($xw); // row
+               $row = $result->fetch_array(MYSQLI_BOTH);
+          }
+
+     xmlwriter_end_element($xw); // students
+
+     //PI
+     $doc = xmlwriter_output_memory($xw);
+
+     $tempFileName = tempnam(".", "grades");
+
+     $xmlFileName = $tempFileName.".xml";
+
+     $handle = fopen($xmlFileName, "w");
+
+     fwrite($handle, $doc);
+
+     fclose($handle);
+
+     unlink($tempFileName);
+
+     header("Location: ".basename($xmlFileName));
+
+     flush();
+
+     time_nanosleep (2 , 0);
+
+     register_shutdown_function('unlink', $xmlFileName);
 
      // A processing instruction
      xmlwriter_start_pi($xw, 'php');
