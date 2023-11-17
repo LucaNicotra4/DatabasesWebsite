@@ -41,37 +41,40 @@ if($_POST['log-in']){
      $row = $result->fetch_array(MYSQLI_BOTH);
 
      if($row[0] == $id && $row[1] == strtoupper($lastName)){
+        echo "Logged in!<br>";
 
-          //query data from all rentals based on customer ID
-          $sql="SELECT 
-                     c.customer_id,
-                     r.rental_id,
-                     f.title,
-                     CONCAT(a.first_name, ' ', a.last_name) AS actor,
-                     cat.name
-                FROM
-                    film f
-                        JOIN
-                    film_category fc ON fc.film_id = f.film_id
-                        JOIN
-                    category cat ON fc.category_id = cat.category_id
-                        JOIN
-                    film_actor fa ON fa.film_id = f.film_id
-                        JOIN
-                    actor a ON fa.actor_id = a.actor_id
-                        JOIN
-                    inventory i ON f.film_id = i.film_id
-                        JOIN
-                    rental r ON i.inventory_id = r.inventory_id
-                        JOIN
-                    customer c ON r.customer_id = c.customer_id
-                WHERE
-                    c.customer_id = 1
-                GROUP BY r.rental_id
-                ORDER BY f.title;";
+        //query actor list from all rentals based on customer ID
+        $sql="SELECT a.actor_id, CONCAT(a.first_name, ' ', a.last_name) AS actor, 
+        COUNT(a.first_name) AS count FROM film f
+        JOIN film_actor fa ON fa.film_id = f.film_id
+        JOIN actor a ON fa.actor_id = a.actor_id
+        JOIN inventory i ON f.film_id = i.film_id
+        JOIN rental r ON i.inventory_id = r.inventory_id
+        JOIN customer c ON r.customer_id = c.customer_id
+        WHERE c.customer_id = $id
+        GROUP BY a.actor_id
+        ORDER BY count DESC;";
 
-          //customer_id, rental_id, title, actor, name(category)
-          $result = $conn->query($sql);
+        //actor id, actor, count
+        $result = $conn->query($sql);
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        echo "Favorite actor: $row[1] <br>";
+
+        //query category list from all rentals
+        $sql="SELECT cat.category_id, cat.name, COUNT(cat.category_id) AS count FROM film f
+        JOIN film_category fc ON fc.film_id = f.film_id
+        JOIN category cat ON fc.category_id = cat.category_id
+        JOIN inventory i ON f.film_id = i.film_id
+        JOIN rental r ON i.inventory_id = r.inventory_id
+        JOIN customer c ON r.customer_id = c.customer_id
+        WHERE c.customer_id = 1
+        GROUP BY cat.category_id
+        ORDER BY count DESC;";
+
+        //actor_id, actor, count
+        $result = $conn->query($sql);
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        echo "Favorite category: $row[1] <br>";
 
      }else{
           echo "Invalid Login";
