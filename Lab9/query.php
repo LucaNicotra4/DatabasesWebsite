@@ -55,10 +55,17 @@ if($_POST['log-in']){
         GROUP BY a.actor_id
         ORDER BY count DESC;";
 
-        //actor id, actor, count
+        //row: actor id, actor, count
+        $actors = array();
         $result = $conn->query($sql);
         $row = $result->fetch_array(MYSQLI_BOTH);
-        echo "Favorite actor: $row[1] <br>";
+        $actors[0] = $row[1];
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        $actors[1] = $row[1];
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        $actors[2] = $row[1];
+        $result->close();
+
 
         //query category list from all rentals
         $sql="SELECT cat.category_id, cat.name, COUNT(cat.category_id) AS count FROM film f
@@ -71,10 +78,56 @@ if($_POST['log-in']){
         GROUP BY cat.category_id
         ORDER BY count DESC;";
 
-        //actor_id, actor, count
+        //category_id, name, count
+        $categories = array();
         $result = $conn->query($sql);
         $row = $result->fetch_array(MYSQLI_BOTH);
-        echo "Favorite category: $row[1] <br>";
+        $categories[0] = $row[1];
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        $categories[1] = $row[1];
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        $categories[2] = $row[1];
+        $result->close();
+
+        //query ids of all rented movies
+        $sql = "SELECT f.film_id FROM film f
+        JOIN inventory i ON f.film_id = i.film_id
+        JOIN rental r ON i.inventory_id = r.inventory_id
+        JOIN customer c ON r.customer_id = c.customer_id
+        WHERE c.customer_id = 1;";
+
+        //film_id
+        $films = array();
+        $result = $conn->query($sql);
+        $row = $result->fetch_array(MYSQLI_BOTH);
+        $count = 0;
+        while(isset($row)){
+            $films[$count] = $row[0];
+            $count++;
+            $row = $result->fetch_array(MYSQLI_BOTH);
+        }
+
+        //printing by actor
+        foreach($actors as $actor){
+            //flim_id, title, description, rating
+            $sql="SELECT f.film_id, f.title, f.description, f.rating FROM film f
+            JOIN film_actor fa ON f.film_id = fa.film_id
+            JOIN actor a ON fa.actor_id = a.actor_id
+            WHERE a.actor_id = 1;";
+
+            $result = $conn->query($sql);
+            echo "<h1>Films Starring ".$actor.",</h1>";
+            for($i = 0; $i < 3; $i++){
+                $row = $result->fetch_array(MYSQLI_BOTH);
+                //check to see if first recommendation has already been rented
+                while(in_array($row[0], $films)){
+                    $row = $result->fetch_array(MYSQLI_BOTH);
+                }
+                echo "<p>".$row[1].": ".$row[2].". RATING: ".$row[3]."</p>";
+            }
+            
+        }
+
 
      }else{
           echo "Invalid Login";
