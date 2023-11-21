@@ -57,12 +57,16 @@ if($_POST['log-in']){
 
         //row: actor id, actor, count
         $actors = array();
+        $actorIDs = array();
         $result = $conn->query($sql);
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $actorIDs[0] = $row[0];
         $actors[0] = $row[1];
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $actorIDs[1] = $row[0];
         $actors[1] = $row[1];
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $actorIDs[2] = $row[0];
         $actors[2] = $row[1];
         $result->close();
 
@@ -108,15 +112,15 @@ if($_POST['log-in']){
         }
 
         //printing by actor
-        foreach($actors as $actor){
+        for($j = 0; $j < 3; $j++){
             //flim_id, title, description, rating
             $sql="SELECT f.film_id, f.title, f.description, f.rating FROM film f
             JOIN film_actor fa ON f.film_id = fa.film_id
             JOIN actor a ON fa.actor_id = a.actor_id
-            WHERE a.actor_id = 1;";
+            WHERE a.actor_id = $actorIDs[$j];";
 
             $result = $conn->query($sql);
-            echo "<h1>Films Starring ".$actor.",</h1>";
+            echo "<h1>Films Starring ".$actors[$j].",</h1>";
             for($i = 0; $i < 3; $i++){
                 $row = $result->fetch_array(MYSQLI_BOTH);
                 //check to see if first recommendation has already been rented
