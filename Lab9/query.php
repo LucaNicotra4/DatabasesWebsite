@@ -14,9 +14,6 @@ if ($conn->connect_error) {
 }
 echo"<p>Connected</p>";
 
-//formatting page
-echo "<html style='text-align:center; left-margin:auto; right-margin:auto;' >";
-
 //form
 echo "<form method='POST'>";
      //input
@@ -41,7 +38,6 @@ if($_POST['log-in']){
      $row = $result->fetch_array(MYSQLI_BOTH);
 
      if($row[0] == $id && $row[1] == strtoupper($lastName)){
-        echo "Logged in!<br>";
 
         //query actor list from all rentals based on customer ID
         $sql="SELECT a.actor_id, CONCAT(a.first_name, ' ', a.last_name) AS actor, 
@@ -84,12 +80,16 @@ if($_POST['log-in']){
 
         //category_id, name, count
         $categories = array();
+        $categoryIDs = array();
         $result = $conn->query($sql);
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $categoryIDs[0] = $row[0];
         $categories[0] = $row[1];
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $categoryIDs[1] = $row[0];
         $categories[1] = $row[1];
         $row = $result->fetch_array(MYSQLI_BOTH);
+        $categoryIDs[2] = $row[0];
         $categories[2] = $row[1];
         $result->close();
 
@@ -112,6 +112,7 @@ if($_POST['log-in']){
         }
 
         //printing by actor
+        echo "<h1 style='text-align:center;'>Films by your Favorite Actors</h1>";
         for($j = 0; $j < 3; $j++){
             //flim_id, title, description, rating
             $sql="SELECT f.film_id, f.title, f.description, f.rating FROM film f
@@ -120,7 +121,8 @@ if($_POST['log-in']){
             WHERE a.actor_id = $actorIDs[$j];";
 
             $result = $conn->query($sql);
-            echo "<h1>Films Starring ".$actors[$j].",</h1>";
+            echo "<h2>Films Starring ".$actors[$j].",</h2>";
+            //loop through all actor IDs
             for($i = 0; $i < 3; $i++){
                 $row = $result->fetch_array(MYSQLI_BOTH);
                 //check to see if first recommendation has already been rented
@@ -129,7 +131,28 @@ if($_POST['log-in']){
                 }
                 echo "<p>".$row[1].": ".$row[2].". RATING: ".$row[3]."</p>";
             }
-            
+        } echo"<br>";
+
+        //printing by category
+        echo "<h1 style='text-align:center;'>Films by your Favorite Categories</h1>";
+        for($j = 0; $j < 3; $j++){
+            //category_id, title, description, rating
+            $sql="SELECT f.film_id, f.title, f.description, f.rating FROM film f
+            JOIN film_category fc ON f.film_id = fc.film_id
+            JOIN category c ON fc.category_id = c.category_id
+            WHERE c.category_id = $categoryIDs[$j];";
+
+            $result = $conn->query($sql);
+            echo "<h2>Films Featuring ".$categories[$j].",</h2>";
+            //loop through all category IDs
+            for($i = 0; $i < 3; $i++){
+                $row = $result->fetch_array(MYSQLI_BOTH);
+                //check to see if first recommendation has already been rented
+                while(in_array($row[0], $films)){
+                    $row = $result->fetch_array(MYSQLI_BOTH);
+                }
+                echo "<p>".$row[1].": ".$row[2].". RATING: ".$row[3]."</p>";
+            }
         }
 
 
