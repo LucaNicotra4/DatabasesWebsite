@@ -42,20 +42,19 @@ echo"
 
 //Handling form
 if($_POST['Form1']){
+     $stmt = $conn->prepare("UPDATE grades SET GRADE = ?
+                              WHERE ASSIGNMENT = ? AND ID = ?");
+     $stmt->bind_param("sii", $grade, $assignment, $studentID);
+
      $studentID = $_POST['StudentID'];
      $assignment = $_POST['Assignment'];
      $grade = $_POST['Grade'];
+     $stmt->execute();
      
+     echo"Student $studentID assignment $assignment grade set to $grade";
 
-     $sql = "UPDATE grades
-     SET GRADE = '$grade'
-     WHERE ASSIGNMENT = $assignment AND ID = $studentID;";
-
-     $result = $conn->query($sql);
-
-     if(isset($result)){
-          echo"Student $studentID assignment $assignment grade set to $grade";
-     }
+     $stmt->close();
+     $conn->close();
 }
      
 ?>
